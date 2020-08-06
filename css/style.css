@@ -28,7 +28,6 @@ svg {
   overflow: hidden;
   vertical-align: middle;
   font-size: 48px;
-  
 }
 
 #nav {
@@ -60,7 +59,7 @@ svg {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap;
+  white-spafcarce: nowrap;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -74,15 +73,15 @@ svg {
 }
 
 .navbar .nav-link:active {
-    border-bottom: 1px solid !important;
-    color: #274FED !important;
+  border-bottom: 1px solid !important;
+  color: #274fed !important;
 }
 
 .bg-primary {
   background-color: #274fed !important;
 }
 
-.card-digit{
+.card-digit {
   font-size: 3vw;
   /* font-size: 5rem; */
   font-weight: 300;
@@ -93,11 +92,17 @@ a.card-link {
   color: #055ad9 !important;
 }
 
-a.card-link:hover{
+a.card-link:hover {
   /* color: #2d63b4 !important; */
   color: #43679d !important;
 }
 
 table thead th {
   width: 0px !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #274FED !important;
+    border-color: #274FED !important;
 }
