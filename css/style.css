@@ -88,6 +88,13 @@ svg {
   line-height: 1.2;
 }
 
+.card-digit-card {
+  font-size: 2vw;
+  /* font-size: 5rem; */
+  font-weight: 300;
+  line-height: 1.2;
+}
+
 a.card-link {
   color: #055ad9 !important;
 }
@@ -98,7 +105,7 @@ a.card-link:hover {
 }
 
 table thead th {
-  width: 0px !important;
+  /* width: 0px !important; */
 }
 
 .btn-primary {
@@ -107,6 +114,12 @@ table thead th {
     border-color: #274FED !important;
 }
 
-.border-primary{
+.border-primary-cred{
   border-color: #274fed !important;
 }
+
+.card.bg-white{
+  background-color: #ffffff !important;
+  /* color: #fff;   */
+}
+
